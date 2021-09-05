@@ -2,7 +2,7 @@
 
 Simple 2048 game
 
-# Project 1 - *2048*
+# Project - *2048*
 
 **2048** is a game that combine the same number in to a bigger number to get the scores.By using the arrow key you will be able to move the numbers around in order to combine them into a bigger number
 
