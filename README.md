@@ -10,6 +10,8 @@ Submitted by: **Zhuohao Tan**
 
 Time spent: **8** hours spent in total
 
+This project bulit by following the tutorial on Youtube (python and Tkinter): https://www.youtube.com/watch?v=b4XP2IcI-Bg
+
 ## User Stories
 
 The following **required** functionality is completed:
